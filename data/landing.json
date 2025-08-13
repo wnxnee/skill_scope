@@ -1,0 +1,16 @@
+{
+  "supported_jobs": [
+    {
+      "title": "Data Scientist",
+      "forecast_available": true
+    },
+    {
+      "title": "Web Developer",
+      "forecast_available": true
+    },
+    {
+      "title": "UX Designer",
+      "forecast_available": false
+    }
+  ]
+}

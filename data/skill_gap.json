@@ -1,0 +1,78 @@
+{
+  "job_title": "Data Scientist",
+  "user_skill_ratings": {
+    "Prompt Engineering & GenAI": 1,
+    "TensorFlow & PyTorch": 2,
+    "MLOps & CI/CD Pipelines": 2,
+    "Python": 5,
+    "SQL & Data Warehousing": 4,
+    "Data Visualization Tools": 3,
+    "R Programming": 2,
+    "Scikit-learn": 4,
+    "Cloud Platforms (AWS/GCP/Azure)": 1
+  },
+  "analysis_result": {
+    "critical_skills": [
+      {
+        "skill": "Prompt Engineering & GenAI",
+        "priority": "High",
+        "market_demand": "Very High",
+        "growth_rate": "+29%",
+        "learning_direction": "Focus on large language models and prompting best practices"
+      },
+      {
+        "skill": "Cloud Platforms (AWS/GCP/Azure)",
+        "priority": "High",
+        "market_demand": "High",
+        "growth_rate": "+18%",
+        "learning_direction": "Start with AWS fundamentals and hands-on labs"
+      }
+    ],
+    "skills_to_improve": [
+      {
+        "skill": "TensorFlow & PyTorch",
+        "priority": "Medium",
+        "current_level": 2,
+        "required_level": 4,
+        "learning_direction": "Hands-on projects in computer vision & NLP"
+      },
+      {
+        "skill": "MLOps & CI/CD Pipelines",
+        "priority": "Medium",
+        "current_level": 2,
+        "required_level": 4,
+        "learning_direction": "Study ML pipeline automation using GitHub Actions and MLflow"
+      },
+      {
+        "skill": "Data Visualization Tools",
+        "priority": "Low",
+        "current_level": 3,
+        "required_level": 4,
+        "learning_direction": "Deep dive into Tableau and storytelling techniques"
+      }
+    ],
+    "strong_skills": [
+      {
+        "skill": "Python",
+        "priority": "High",
+        "user_level": 5,
+        "market_demand": "Very High",
+        "recommendation": "Use Python as the base language for all AI experiments"
+      },
+      {
+        "skill": "SQL & Data Warehousing",
+        "priority": "Medium",
+        "user_level": 4,
+        "market_demand": "High",
+        "recommendation": "Focus on complex queries and optimization strategies"
+      },
+      {
+        "skill": "Scikit-learn",
+        "priority": "Medium",
+        "user_level": 4,
+        "market_demand": "Moderate",
+        "recommendation": "Explore pipelines, hyperparameter tuning, and model evaluation"
+      }
+    ]
+  }
+}

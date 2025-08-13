@@ -1,0 +1,30 @@
+{
+  "questions": [
+    {
+      "question": "Can you explain a recent machine learning project you worked on?",
+      "expected_keywords": [
+        "dataset",
+        "evaluation",
+        "accuracy",
+        "pipeline"
+      ]
+    },
+    {
+      "question": "How would you fine-tune a large language model for a specific domain?",
+      "expected_keywords": [
+        "transfer learning",
+        "tokenizer",
+        "domain adaptation"
+      ]
+    },
+    {
+      "question": "Describe the components of a robust MLOps pipeline.",
+      "expected_keywords": [
+        "CI/CD",
+        "model registry",
+        "monitoring",
+        "retraining"
+      ]
+    }
+  ]
+}

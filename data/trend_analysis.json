@@ -1,0 +1,153 @@
+{
+  "job_title": "Data Scientist",
+  "current_trends": {
+    "hottest_skills": [
+      {
+        "skill": "Prompt Engineering & GenAI",
+        "growth_rate": "+29%"
+      },
+      {
+        "skill": "TensorFlow & PyTorch",
+        "growth_rate": "+22%"
+      },
+      {
+        "skill": "MLOps & CI/CD Pipelines",
+        "growth_rate": "+20%"
+      },
+      {
+        "skill": "Python",
+        "growth_rate": "+18%"
+      },
+      {
+        "skill": "SQL & Data Warehousing",
+        "growth_rate": "+14%"
+      },
+      {
+        "skill": "Data Visualization Tools",
+        "growth_rate": "+12%"
+      }
+    ],
+    "essential_tech_stack": {
+      "programming": [
+        "Python",
+        "R",
+        "SQL"
+      ],
+      "ml_frameworks": [
+        "scikit-learn",
+        "TensorFlow",
+        "PyTorch"
+      ],
+      "cloud_platforms": [
+        "AWS",
+        "GCP",
+        "Azure"
+      ]
+    },
+    "key_insights": {
+      "critical_shift": "From model building to production",
+      "specializations": [
+        {
+          "name": "Applied Generative AI",
+          "demand": "Hot"
+        },
+        {
+          "name": "MLOps Engineering",
+          "demand": "High Demand"
+        },
+        {
+          "name": "Data Product Management",
+          "demand": "Emerging"
+        }
+      ]
+    }
+  },
+  "forecast_2026_2030": {
+    "timeline": [
+      {
+        "period": "2026-2027",
+        "title": "AI Integration Era",
+        "focus": "LLM fine-tuning, advanced prompt engineering, AutoML integration",
+        "growth": "20-30% annual growth"
+      },
+      {
+        "period": "2027-2028",
+        "title": "Specialization Boom",
+        "focus": "Healthcare AI, FinTech analytics, climate data science",
+        "growth": "Streaming analytics CAGR 24%"
+      },
+      {
+        "period": "2029-2030",
+        "title": "Mature AI Ecosystem",
+        "focus": "Quantum ML, edge computing, ethical AI governance",
+        "growth": "Sustained demand, focus on AI safety"
+      }
+    ],
+    "strategic_priorities": {
+      "critical": [
+        {
+          "name": "Streaming Analytics",
+          "tools": [
+            "Kafka",
+            "Spark Streaming"
+          ]
+        },
+        {
+          "name": "Advanced GenAI",
+          "tools": [
+            "RAG systems",
+            "prompt engineering"
+          ]
+        }
+      ],
+      "important": [
+        {
+          "name": "Explainable AI",
+          "tools": [
+            "SHAP",
+            "LIME"
+          ]
+        },
+        {
+          "name": "Domain Specialization",
+          "tools": [
+            "Healthcare",
+            "Finance"
+          ]
+        }
+      ],
+      "emerging": [
+        {
+          "name": "Quantum ML & Edge Computing",
+          "tools": [
+            "Quantum algorithms",
+            "TinyML"
+          ]
+        }
+      ]
+    },
+    "emerging_roles": [
+      {
+        "title": "AI Product Manager",
+        "growth": "+150%"
+      },
+      {
+        "title": "MLOps Platform Engineer",
+        "growth": "+120%"
+      },
+      {
+        "title": "AI Ethics Specialist",
+        "growth": "+300%"
+      },
+      {
+        "title": "Real-time Analytics Engineer",
+        "growth": "+90%"
+      }
+    ],
+    "career_advice": [
+      "Generalists \u2192 Specialists: Pick your niche by 2027.",
+      "Technical + Business: Data scientists with strategy knowledge earn more.",
+      "Ethical AI Leaders: Regulation increases demand for ethics expertise."
+    ]
+  }
+}

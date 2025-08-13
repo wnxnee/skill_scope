@@ -1,0 +1,22 @@
+{
+  "feedback": [
+    {
+      "question": "Can you explain a recent machine learning project you worked on?",
+      "sample_feedback": "Try to include metrics and project impact."
+    },
+    {
+      "question": "How would you fine-tune a large language model for a specific domain?",
+      "sample_feedback": "Explain the trade-offs in training cost and performance."
+    },
+    {
+      "question": "Describe the components of a robust MLOps pipeline.",
+      "sample_feedback": "Include automation tools and versioning."
+    }
+  ],
+  "evaluation": {
+    "technical_skills": 78,
+    "expression_clarity": 85,
+    "completeness": 72,
+    "final_score": "78% - Room for improvement in depth and structure."
+  }
+}

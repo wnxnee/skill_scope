@@ -1,0 +1,95 @@
+{
+  "phases": [
+    {
+      "phase": "Phase 1",
+      "duration": "4 weeks",
+      "description": "Build foundational AI knowledge and GenAI exposure",
+      "modules": [
+        {
+          "title": "Introduction to Prompt Engineering",
+          "status": "todo",
+          "resources": [
+            {
+              "type": "course",
+              "label": "DeepLearning.AI Prompt Engineering"
+            },
+            {
+              "type": "article",
+              "label": "OpenAI Prompting Guide"
+            }
+          ]
+        },
+        {
+          "title": "Cloud Fundamentals - AWS/GCP",
+          "status": "todo",
+          "resources": [
+            {
+              "type": "course",
+              "label": "AWS Practitioner Essentials"
+            },
+            {
+              "type": "book",
+              "label": "GCP for Beginners"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "phase": "Phase 2",
+      "duration": "5 weeks",
+      "description": "Hands-on experience in AI/ML model development",
+      "modules": [
+        {
+          "title": "Building with TensorFlow & PyTorch",
+          "status": "todo",
+          "resources": [
+            {
+              "type": "tutorial",
+              "label": "PyTorch Lightning Basics"
+            },
+            {
+              "type": "practice",
+              "label": "Image classification project"
+            }
+          ]
+        },
+        {
+          "title": "Model Deployment with MLOps",
+          "status": "todo",
+          "resources": [
+            {
+              "type": "course",
+              "label": "End-to-End MLOps by Google"
+            },
+            {
+              "type": "practice",
+              "label": "CI/CD workflow using GitHub Actions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "phase": "Phase 3",
+      "duration": "3 weeks",
+      "description": "Final polish and data storytelling",
+      "modules": [
+        {
+          "title": "Advanced Data Visualization",
+          "status": "todo",
+          "resources": [
+            {
+              "type": "course",
+              "label": "Storytelling with Data"
+            },
+            {
+              "type": "article",
+              "label": "Visual Best Practices"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
